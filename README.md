@@ -1,1 +1,2 @@
 # Prediction_CanvasLMS_LiveEvents
+This repository contains materials that document a prediction modeling methodology that builds on an initiative to collect student learning events in a local university repository and use them to develop insight about and support for student learning. It involves the use of Canvas LMS Live events as a behavioral record of students' learning events, passed through an AWS S3 bucket, and on to Splunk as an endpoint to organize these data into tabular form for analysis, prediction model development, and application to future users.  
